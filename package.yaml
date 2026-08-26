@@ -1,0 +1,9 @@
+# Package definition for gum
+
+package_name: gum
+github_repo: charmbracelet/gum
+artifact_format: tar.gz
+description: "A tool for glamorous shell scripts 🎀"
+license: MIT
+
+# Build for all Debian suites and all supported architectures.

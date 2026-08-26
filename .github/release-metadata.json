@@ -1,0 +1,39 @@
+{
+  "package": "gum",
+  "upstream_repo": "charmbracelet/gum",
+  "version": "v2.0.0",
+  "tag": "v2.0.0",
+  "published_at": "2026-08-20T08:13:46Z",
+  "license": "MIT",
+  "asset": "gum_2.0.0_Linux_arm64.tar.gz",
+  "asset_size": 4556270,
+  "sha256": "ed51e91457a48f5681f67dd925bd40eb1794d41d1f48cf1d7e19e2517b7fac76",
+  "expected_sha256": "ed51e91457a48f5681f67dd925bd40eb1794d41d1f48cf1d7e19e2517b7fac76",
+  "checksum_source": "checksums.txt",
+  "checksum_verified": true,
+  "assets": {
+    "gum_2.0.0_Linux_arm64.tar.gz": {
+      "sha256": "ed51e91457a48f5681f67dd925bd40eb1794d41d1f48cf1d7e19e2517b7fac76",
+      "size": 4556270
+    },
+    "gum_2.0.0_Linux_i386.tar.gz": {
+      "sha256": "e9ce7127c8b2773037bb3adc5436b07bc3a16e381712f49cf887389a83259819",
+      "size": 4694177
+    },
+    "gum_2.0.0_Linux_armv6.tar.gz": {
+      "sha256": "48754771aa664fa5163a062c517d12cf100875b3e4d168b9968b30a128723e58",
+      "size": 4755390
+    },
+    "gum_2.0.0_Linux_armv7.tar.gz": {
+      "sha256": "dfe2370479536fd2a3823407769ee49a6b863157fbb687753ca9bf4d70da4e76",
+      "size": 4744790
+    },
+    "gum_2.0.0_Linux_x86_64.tar.gz": {
+      "sha256": "c99b0005bb5b514770eea404b24c7987e08eba35bb0b2d7bc6545bb676c36861",
+      "size": 4963142
+    }
+  },
+  "asset_count": 5,
+  "vetted_at": "2026-08-26T04:30:35Z",
+  "vetted_by": ""
+}

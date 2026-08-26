@@ -1,0 +1,47 @@
+{
+  "gate": "pass",
+  "license": {
+    "declared": "MIT",
+    "detected": [
+      "MIT"
+    ],
+    "license_files": [
+      "//tmp/tmp.2tDZvGIBum/x/gum_2.0.0_Linux_arm64/LICENSE"
+    ],
+    "matches": true,
+    "status": "pass",
+    "detail": "declared MIT matches detected MIT"
+  },
+  "asset": {
+    "format": "tar.gz",
+    "size": 4556270,
+    "valid": true,
+    "is_html": false,
+    "binary": "gum",
+    "elf_arch": "ARM aarch64",
+    "status": "pass",
+    "detail": "valid tar.gz archive containing 1 ELF executable(s); first: gum (ARM aarch64); release covers: amd64 arm64 armhf i386 "
+  },
+  "architectures": {
+    "covered": [
+      "amd64",
+      "arm64",
+      "armhf",
+      "i386"
+    ],
+    "missing": [
+      "armel",
+      "ppc64el",
+      "s390x",
+      "riscv64",
+      "loong64"
+    ],
+    "assets": {
+      "amd64": "gum_2.0.0_Linux_x86_64.tar.gz",
+      "arm64": "gum_2.0.0_Linux_arm64.tar.gz",
+      "armhf": "gum_2.0.0_Linux_armv7.tar.gz",
+      "i386": "gum_2.0.0_Linux_i386.tar.gz"
+    }
+  },
+  "vetted_at": "2026-08-26T04:30:36Z"
+}
